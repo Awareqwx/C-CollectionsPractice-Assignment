@@ -1,0 +1,8 @@
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\CollectionsPractice\bin\Debug\netcoreapp1.1\CollectionsPractice.deps.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\CollectionsPractice\bin\Debug\netcoreapp1.1\CollectionsPractice.runtimeconfig.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\CollectionsPractice\bin\Debug\netcoreapp1.1\CollectionsPractice.runtimeconfig.dev.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\CollectionsPractice\bin\Debug\netcoreapp1.1\CollectionsPractice.dll
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\CollectionsPractice\bin\Debug\netcoreapp1.1\CollectionsPractice.pdb
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\CollectionsPractice\obj\Debug\netcoreapp1.1\CollectionsPractice.AssemblyInfo.cs
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\CollectionsPractice\obj\Debug\netcoreapp1.1\CollectionsPractice.dll
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\CollectionsPractice\obj\Debug\netcoreapp1.1\CollectionsPractice.pdb
